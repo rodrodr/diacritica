@@ -1,4 +1,3 @@
-
 import React, { useEffect, useState } from 'react';
 import { ArrowLeft, ArrowRight, Download, Share2, Link as LinkIcon, Twitter, Instagram, MessageCircle, Check, ExternalLink } from 'lucide-react';
 import { RepoItem } from '../data';
@@ -282,6 +281,43 @@ export const MaterialDetail: React.FC<MaterialDetailProps> = ({ item, nextItem, 
                     </li>
                   ))}
                 </ul>
+              )}
+
+              {/* AI Integration Section */}
+              {item.aiIntegration && (
+                <>
+                    <h3 className="text-3xl font-bold text-brand-dark mb-6">Integración de IA</h3>
+                    <div className="grid grid-cols-2 md:grid-cols-4 gap-0 mb-12 border border-gray-200 rounded-sm overflow-hidden">
+                        {/* Design */}
+                        <div className="p-4 text-center border-r border-b md:border-b-0 border-gray-200 last:border-0 md:last:border-0">
+                            <h4 className="font-bold text-brand-dark uppercase tracking-widest text-xs mb-3">Diseño</h4>
+                            <div className={`inline-block px-6 py-2 rounded-sm font-bold uppercase tracking-widest text-xs ${item.aiIntegration.design ? 'bg-green-600 text-white' : 'bg-brand-red text-white'}`}>
+                                {item.aiIntegration.design ? 'Sí' : 'No'}
+                            </div>
+                        </div>
+                        {/* Usage */}
+                        <div className="p-4 text-center border-r border-b md:border-b-0 border-gray-200 last:border-0 md:last:border-0 md:border-r">
+                             <h4 className="font-bold text-brand-dark uppercase tracking-widest text-xs mb-3">Uso</h4>
+                             <div className={`inline-block px-6 py-2 rounded-sm font-bold uppercase tracking-widest text-xs ${item.aiIntegration.usage ? 'bg-green-600 text-white' : 'bg-brand-red text-white'}`}>
+                                {item.aiIntegration.usage ? 'Sí' : 'No'}
+                            </div>
+                        </div>
+                        {/* Evaluation */}
+                        <div className="p-4 text-center border-r border-gray-200 last:border-0">
+                             <h4 className="font-bold text-brand-dark uppercase tracking-widest text-xs mb-3">Evaluación</h4>
+                             <div className={`inline-block px-6 py-2 rounded-sm font-bold uppercase tracking-widest text-xs ${item.aiIntegration.evaluation ? 'bg-green-600 text-white' : 'bg-brand-red text-white'}`}>
+                                {item.aiIntegration.evaluation ? 'Sí' : 'No'}
+                            </div>
+                        </div>
+                        {/* Feedback */}
+                        <div className="p-4 text-center">
+                             <h4 className="font-bold text-brand-dark uppercase tracking-widest text-xs mb-3">Feedback</h4>
+                             <div className={`inline-block px-6 py-2 rounded-sm font-bold uppercase tracking-widest text-xs ${item.aiIntegration.feedback ? 'bg-green-600 text-white' : 'bg-brand-red text-white'}`}>
+                                {item.aiIntegration.feedback ? 'Sí' : 'No'}
+                            </div>
+                        </div>
+                    </div>
+                </>
               )}
 
               <h3 className="text-3xl font-bold text-brand-dark mb-6">Aplicaciones</h3>

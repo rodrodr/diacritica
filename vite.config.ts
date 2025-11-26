@@ -6,5 +6,5 @@ export default defineConfig({
   plugins: [react()],
   // base: './' ensures assets are linked relatively, which is essential 
   // for GitHub Pages if you are not using a custom domain.
-  base: '/page_test', 
+  base: '/diacritica/', 
 })

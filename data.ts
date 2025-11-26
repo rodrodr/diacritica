@@ -21,6 +21,13 @@ export interface RepoItem {
   // Validation Fields
   validated?: boolean;
   validationDetails?: string;
+  // AI Integration details
+  aiIntegration?: {
+    design: boolean;
+    usage: boolean;
+    evaluation: boolean;
+    feedback: boolean;
+  };
 }
 
 export interface PublicationItem {

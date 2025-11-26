@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://rodrodr.github.io/page_test/",
+  "homepage": "https://rodrodr.github.io/diacritica/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",

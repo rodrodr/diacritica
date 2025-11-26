@@ -26,7 +26,7 @@ const members: Member[] = [
   {
     name: "Rodrigo Rodrigues-Silveira",
     role: "Investigador Principal",
-    img: "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=400",
+    img: "images/miembros/profile_Rodrigo.png",
     socials: {
       email: "rodrodr@usal.es",
       github: "https://github.com/rodrodr",
@@ -36,67 +36,67 @@ const members: Member[] = [
   {
     name: "Rubén Cuéllar Rivero",
     role: "Investigador",
-    img: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=400",
+    img: "images/miembros/Ruben.jpg",
     socials: { email: "rubencuri@usal.es", orcid: "https://orcid.org/0000-0002-9848-5004" }
   },
   {
     name: "Carolina Plaza Colodro",
     role: "Investigadora",
-    img: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=400",
+    img: "images/miembros/cplaza.jpg",
     socials: { email: "cplazaco@usal.es", orcid: "https://orcid.org/0000-0002-9680-3590" }
   },
   {
     name: "Nicolás Miranda Olivares",
     role: "Investigador",
-    img: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=400",
+    img: "images/miembros/nicolas.jpg",
     socials: { email: "nicolas.miranda@usal.es", orcid: "https://orcid.org/0000-0001-8087-6202" }
   },
   {
     name: "Cristina María Rivas Pérez",
     role: "Investigadora",
-    img: "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=400",
+    img: "images/miembros/crisrivas.jpg",
     socials: { email: "crisrivas@usal.es", orcid: "https://orcid.org/0000-0002-0880-4316" }
   },
   {
     name: "Mercedes García Montero",
     role: "Investigadora",
-    img: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&q=80&w=400",
+    img: "images/miembros/mercegar.jpg",
     socials: { email: "mercegar@usal.es", orcid: "https://orcid.org/0000-0002-9598-449X" }
   },
   {
     name: "Elena Martínez Barahona",
     role: "Investigadora",
-    img: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=400",
+    img: "images/miembros/embarahona.jpg",
     socials: { email: "embarahona@usal.es", orcid: "https://orcid.org/0000-0002-9827-2308" }
   },
   {
     name: "José Manuel Rivas Otero",
     role: "Investigador",
-    img: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=400",
+    img: "images/miembros/jose_manuel.jpg",
     socials: { email: "jmrivas@usal.es", orcid: "https://orcid.org/0000-0002-5115-8022" }
   },
   {
     name: "Sofía Anabel Martínez Osorio",
     role: "Investigadora",
-    img: "https://images.unsplash.com/photo-1598550874175-4d7112ee6616?auto=format&fit=crop&q=80&w=400",
+    img: "images/miembros/sofia.jpg",
     socials: { email: "sofiaosorio@usal.es", orcid: "https://orcid.org/0009-0002-4842-3785" }
   },
   {
     name: "Eduardo Barreto Martín",
     role: "Investigador",
-    img: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=400",
+    img: "images/miembros/eduardo.jpg",
     socials: { email: "eduardobarretomartin@usal.es", orcid: "https://orcid.org/0009-0006-3670-1767" }
   },
   {
     name: "Samantha Leonor Botica Fuentes",
     role: "Investigadora",
-    img: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=400",
+    img: "images/miembros/samantha.jpg",
     socials: { email: "samanthabotica@usal.es", orcid: "https://orcid.org/0009-0006-4149-2875" }
   },
   {
     name: "Alejandro Sánchez Muñoz",
     role: "Investigador",
-    img: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=400",
+    img: "images/miembros/alejandro.jpg",
     socials: { email: "sanchezmunoz.alejandro@usal.es", orcid: "https://orcid.org/0009-0000-0503-5155" }
   }
 ];
