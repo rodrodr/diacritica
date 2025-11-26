@@ -1,0 +1,108 @@
+
+{
+  "publications": [
+    {
+      "id": 1,
+      "title": "Reimagining the Classroom: Artificial Intelligence as a Socratic Interlocutor",
+      "category": "Artículos",
+      "type": "pdf",
+      "description": "This paper explores the shift from AI as an answer-engine to AI as a question-generator, analyzing student performance in political science debates.",
+      "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?auto=format&fit=crop&q=80&w=800",
+      "date": "2024",
+      "author": "Rodrigues-Silveira, R. & Team",
+      "venue": "Journal of Digital Pedagogy",
+      "doi": "10.1080/12345678.2024.001",
+      "url": "#"
+    },
+    {
+      "id": 2,
+      "title": "Ethical Frameworks for Generative AI in Higher Education",
+      "category": "Conferencias",
+      "type": "link",
+      "description": "Presented at the International Conference on EdTech 2023. A proposal for a traffic-light system for ethical AI usage in essays.",
+      "image": "https://images.unsplash.com/photo-1544531586-fde5298cdd40?auto=format&fit=crop&q=80&w=800",
+      "date": "2023",
+      "author": "Cuéllar Rivero, R.",
+      "venue": "ICET 2023 Proceedings",
+      "doi": "10.1109/ICET.2023.89",
+      "url": "#"
+    },
+    {
+      "id": 3,
+      "title": "The Hallucination Gap: Measuring Student Skepticism",
+      "category": "Artículos",
+      "type": "pdf",
+      "description": "A quantitative study on how specific training modules reduce student trust in unverified AI outputs by 45%.",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=800",
+      "date": "2024",
+      "author": "Plaza Colodro, C. & Miranda Olivares, N.",
+      "venue": "Computers & Education",
+      "doi": "10.1016/j.compedu.2024.101",
+      "url": "#"
+    },
+    {
+      "id": 4,
+      "title": "Beyond the Essay: Oral Defense Simulators",
+      "category": "Otros",
+      "type": "link",
+      "description": "A technical report on the development and deployment of voice-to-voice LLM agents for thesis preparation.",
+      "image": "https://images.unsplash.com/photo-1589254065878-42c9da997008?auto=format&fit=crop&q=80&w=800",
+      "date": "2024",
+      "author": "Tech Lab D-IA-C",
+      "venue": "University Technical Reports",
+      "url": "#"
+    },
+    {
+      "id": 5,
+      "title": "Structural Violence Visualized: Midjourney in Political Science",
+      "category": "Artículos",
+      "type": "pdf",
+      "description": "Evaluating the efficacy of generative image models in helping students conceptualize abstract political theories.",
+      "image": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?auto=format&fit=crop&q=80&w=800",
+      "date": "2023",
+      "author": "García Montero, M.",
+      "venue": "Visual Studies Journal",
+      "doi": "10.1080/1472586.2023.002",
+      "url": "#"
+    },
+    {
+      "id": 6,
+      "title": "Faculty Guidelines for AI Adoption",
+      "category": "Otros",
+      "type": "pdf",
+      "description": "A whitepaper distributed to 50+ universities outlining best practices for departmental policy adaptation.",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80&w=800",
+      "date": "2023",
+      "author": "D-IA-Crítica Policy Group",
+      "venue": "Whitepaper Series",
+      "url": "#"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "title": "El Manantial Errante",
+      "category": "Simulaciones",
+      "type": "tool",
+      "description": "Narración acompañada de un simulador de polarización ideológica. Permite a los estudiantes entender los conceptos y experimentar con distintos escenarios.",
+      "image": "images/repos/Malba_polariza.png",
+      "date": "Nov 2025",
+      "author": "Rodrigo Rodrigues-Silveira",
+      "license": "MIT License",
+      "format": "Web App",
+      "doi": "10.5281/zenodo.17713954",
+      "citation": "Rodrigues-Silveira, R. (2025). 'El manantial errante: Simulador de polarización ideológica (v1.0).' Zenodo. https://doi.org/10.5281/zenodo.17713954.",
+      "resumen": "Estructura narrativa conteniendo dos partes. La primera corresponde a un cuento que introduce las nociones de centro de gravedad y polarización ideológica. La segunda consiste en un simulador que permite a los estudiantes experimentar diferentes escenarios de polarización manipulando los porcentajes de votos y las posiciones ideológicas de cinco partidos distintos.",
+      "objetivos": "El propósito del simulador consiste en facilitar la comprensión por parte de los estudiantes de cómo se puede medir empíricamente la polarización ideológica en un sistema político.",
+      "objetivosSteps": [
+        "Introducción narrativa: el cuento introduce las ideas principales y prepara el entorno simulado.",
+        "Simulador: permite la exploración y el aprendizaje manipulativo por medio de una interfaz interactiva.",
+        "Adaptabilidad: se puede emplear en diferentes estrategias prácticas, tanto en clases como fuera."
+      ],
+      "aplicaciones": "Las aplicaciones pueden ir desde integrarlo como una parte de una práctica en clase, recurso de estudio autónomo, como parte de una demostración de concepto por parte del docente, un proyecto de investigación, dentro de evaluaciones. El uso concreto dependerá de cómo el profesor decide integrar la herramienta dentro de una actividad pedagógica completa. La flexibilidad en el diseño preveía justamente una alta adaptabilidad del instrumento a diferentes contextos didácticos.",
+      "downloadUrl": "repos/Malba_polariza.html",
+      "validated": false,
+      "validationDetails": "Este simulador aún no ha sido validado."
+    }
+  ]
+}

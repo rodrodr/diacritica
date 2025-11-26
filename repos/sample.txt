@@ -1,0 +1,2 @@
+This is a sample text file representing a repository resource.
+You can replace this with PDFs, DOCX, or other file types.
