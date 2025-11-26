@@ -26,56 +26,6 @@
       "venue": "ICET 2023 Proceedings",
       "doi": "10.1109/ICET.2023.89",
       "url": "#"
-    },
-    {
-      "id": 3,
-      "title": "The Hallucination Gap: Measuring Student Skepticism",
-      "category": "Artículos",
-      "type": "pdf",
-      "description": "A quantitative study on how specific training modules reduce student trust in unverified AI outputs by 45%.",
-      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=800",
-      "date": "2024",
-      "author": "Plaza Colodro, C. & Miranda Olivares, N.",
-      "venue": "Computers & Education",
-      "doi": "10.1016/j.compedu.2024.101",
-      "url": "#"
-    },
-    {
-      "id": 4,
-      "title": "Beyond the Essay: Oral Defense Simulators",
-      "category": "Otros",
-      "type": "link",
-      "description": "A technical report on the development and deployment of voice-to-voice LLM agents for thesis preparation.",
-      "image": "https://images.unsplash.com/photo-1589254065878-42c9da997008?auto=format&fit=crop&q=80&w=800",
-      "date": "2024",
-      "author": "Tech Lab D-IA-C",
-      "venue": "University Technical Reports",
-      "url": "#"
-    },
-    {
-      "id": 5,
-      "title": "Structural Violence Visualized: Midjourney in Political Science",
-      "category": "Artículos",
-      "type": "pdf",
-      "description": "Evaluating the efficacy of generative image models in helping students conceptualize abstract political theories.",
-      "image": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?auto=format&fit=crop&q=80&w=800",
-      "date": "2023",
-      "author": "García Montero, M.",
-      "venue": "Visual Studies Journal",
-      "doi": "10.1080/1472586.2023.002",
-      "url": "#"
-    },
-    {
-      "id": 6,
-      "title": "Faculty Guidelines for AI Adoption",
-      "category": "Otros",
-      "type": "pdf",
-      "description": "A whitepaper distributed to 50+ universities outlining best practices for departmental policy adaptation.",
-      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80&w=800",
-      "date": "2023",
-      "author": "D-IA-Crítica Policy Group",
-      "venue": "Whitepaper Series",
-      "url": "#"
     }
   ],
   "items": [
@@ -102,7 +52,13 @@
       "aplicaciones": "Las aplicaciones pueden ir desde integrarlo como una parte de una práctica en clase, recurso de estudio autónomo, como parte de una demostración de concepto por parte del docente, un proyecto de investigación, dentro de evaluaciones. El uso concreto dependerá de cómo el profesor decide integrar la herramienta dentro de una actividad pedagógica completa. La flexibilidad en el diseño preveía justamente una alta adaptabilidad del instrumento a diferentes contextos didácticos.",
       "downloadUrl": "repos/Malba_polariza.html",
       "validated": false,
-      "validationDetails": "Este simulador aún no ha sido validado."
+      "validationDetails": "Este simulador aún no ha sido validado.",
+      "aiIntegration": {
+        "design": true,
+        "usage": false,
+        "evaluation": false,
+        "feedback": false
+      }
     }
   ]
 }
