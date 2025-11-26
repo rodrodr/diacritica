@@ -1,3 +1,4 @@
+
 import React, { useEffect, useState } from 'react';
 import { ArrowLeft, ArrowRight, Download, Share2, Link as LinkIcon, Twitter, Instagram, MessageCircle, Check, ExternalLink } from 'lucide-react';
 import { RepoItem } from '../data';
@@ -260,18 +261,18 @@ export const MaterialDetail: React.FC<MaterialDetailProps> = ({ item, nextItem, 
               <h3 className="text-3xl font-bold text-brand-dark mb-6">Resumen</h3>
               <div 
                 className="mb-12 leading-loose font-serif text-gray-600"
-                dangerouslySetInnerHTML={{ __html: item.challenge }}
+                dangerouslySetInnerHTML={{ __html: item.resumen }}
               />
 
               <h3 className="text-3xl font-bold text-brand-dark mb-6">Objetivos de Aprendizaje</h3>
               <div 
                 className="mb-8 leading-loose font-serif text-gray-600"
-                dangerouslySetInnerHTML={{ __html: item.approach }}
+                dangerouslySetInnerHTML={{ __html: item.objetivos }}
               />
               
-              {item.approachSteps && item.approachSteps.length > 0 && (
+              {item.objetivosSteps && item.objetivosSteps.length > 0 && (
                 <ul className="list-none space-y-4 pl-0 mb-12">
-                  {item.approachSteps.map((step, index) => (
+                  {item.objetivosSteps.map((step, index) => (
                     <li key={index} className="flex items-start gap-4">
                        <span className="text-brand-red font-bold text-xl">0{index + 1}.</span>
                        <span 
@@ -286,7 +287,7 @@ export const MaterialDetail: React.FC<MaterialDetailProps> = ({ item, nextItem, 
               <h3 className="text-3xl font-bold text-brand-dark mb-6">Aplicaciones</h3>
               <div 
                 className="mb-8 leading-loose font-serif text-gray-600"
-                dangerouslySetInnerHTML={{ __html: item.outcomes }}
+                dangerouslySetInnerHTML={{ __html: item.aplicaciones }}
               />
 
               <h3 className="text-3xl font-bold text-brand-dark mb-6">Validación</h3>

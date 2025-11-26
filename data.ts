@@ -13,11 +13,10 @@ export interface RepoItem {
   doi: string;
   citation: string;
   // Detailed Content Fields
-  challenge: string;
-  quote: string;
-  approach: string;
-  approachSteps: string[];
-  outcomes: string;
+  resumen: string;
+  objetivos: string;
+  objetivosSteps: string[];
+  aplicaciones: string;
   downloadUrl: string;
   // Validation Fields
   validated?: boolean;
