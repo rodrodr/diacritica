@@ -38,7 +38,7 @@
       "image": "images/repos/Malba_polariza.png",
       "date": "Nov 2025",
       "author": "Rodrigo Rodrigues-Silveira",
-      "license": "MIT License",
+      "license": "Creative Commons v.4",
       "format": "Web App",
       "doi": "10.5281/zenodo.17713954",
       "citation": "Rodrigues-Silveira, R. (2025). 'El manantial errante: Simulador de polarización ideológica (v1.0).' Zenodo. https://doi.org/10.5281/zenodo.17713954.",
@@ -51,6 +51,37 @@
       ],
       "aplicaciones": "Las aplicaciones pueden ir desde integrarlo como una parte de una práctica en clase, recurso de estudio autónomo, como parte de una demostración de concepto por parte del docente, un proyecto de investigación, dentro de evaluaciones. El uso concreto dependerá de cómo el profesor decide integrar la herramienta dentro de una actividad pedagógica completa. La flexibilidad en el diseño preveía justamente una alta adaptabilidad del instrumento a diferentes contextos didácticos.",
       "downloadUrl": "repos/Malba_polariza.html",
+      "validated": false,
+      "validationDetails": "Este simulador aún no ha sido validado.",
+      "aiIntegration": {
+        "design": true,
+        "usage": false,
+        "evaluation": false,
+        "feedback": false
+      }
+    },
+        {
+      "id": 2,
+      "title": "Fábulas de la política",
+      "category": "Podcasts",
+      "type": "audio",
+      "description": "Narración acompañada de un simulador de polarización ideológica. Permite a los estudiantes entender los conceptos y experimentar con distintos escenarios.",
+      "image": "images/repos/fabulas_politica.png",
+      "date": "Nov 2025",
+      "author": "Rodrigo Rodrigues-Silveira",
+      "license": "Creative Commons v.4",
+      "format": "Spotify Podcast",
+      "doi": "10.5281/zenodo.17732706",
+      "citation": "Rodrigues-Silveira, R. (2025). Fábulas de la política: Un pódcast sobre animales sociales. Zenodo. https://doi.org/10.5281/zenodo.17732706.",
+      "resumen": "Fábulas de la política es una serie sonora que convierte las ideas más densas de la teoría política en historias sorprendentes, absurdas, provocadoras y, a veces, peligrosamente familiares. Cada episodio presenta una fábula contemporánea —protagonizada por animales en el estilo clásico de Esopo o La Fontaine— que sirve como punto de partida para explorar conceptos clave como el poder, el autoritarismo, los partidos políticos o la representación. Tratan de temas actuales y de peso como el poder, la ley de hierro de la oligarquía, el autoritarismo, los partidos políticos y las formas de gobierno.",
+      "objetivos": "Lejos de explicar la teoría con voz monocorde, este pódcast la dramatiza, la pone en escena, la hace vivir. Después de cada fábula, escucharás a estudiantes virtuales debatiendo lo que pasó, comparándolo con textos clásicos y proponiendo lecturas distintas. ¿Quién tiene razón? Eso depende de ti. Este pódcast no te dice qué pensar. Te lanza una historia, te deja con una pregunta, y te invita a armar tu propio argumento. Porque en política, como en las fábulas, la moraleja no siempre es evidente… y a veces ni siquiera es moral.",
+      "objetivosSteps": [
+        "Ficción educativa: analiza conceptos teóricos de la política por medio de la ficción pedagógica.",
+        "Modularidad: se divide en dos partes: el cuento y un debate que aclara o comenta las ideas centrales.",
+        "Adaptabilidad: se puede emplear en diferentes estrategias prácticas, tanto en clases como fuera."
+      ],
+      "aplicaciones": "Las aplicaciones son varias. Los audios de la serie pueden ser empleados como recursos de apoyo para los estudiantes. El hecho de que está disponible en Spotify y otras aplicaciones de pódcasts permite que escuchen los audios en cualquier ocasión y por diferentes medios técnicos. Los docentes también pueden emplear el pódcast como recurso de debates en clase o dentro de prácticas en las que los estudiantes deban reflexionar sobre cómo textos teóricos se encuentran reflejados en las fábulas.",
+      "downloadUrl": "https://open.spotify.com/show/0aq6OraIYWvjqep9ofQJEe?si=6qJ4asd5Qr6ZJlkdkNw-lA",
       "validated": false,
       "validationDetails": "Este simulador aún no ha sido validado.",
       "aiIntegration": {
