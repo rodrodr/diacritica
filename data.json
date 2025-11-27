@@ -3,29 +3,29 @@
   "publications": [
     {
       "id": 1,
-      "title": "Reimagining the Classroom: Artificial Intelligence as a Socratic Interlocutor",
+      "title": "MetodologIA: Inteligencia Artificial como soporte para la enseñanza de métodos de investigación",
       "category": "Artículos",
       "type": "pdf",
-      "description": "This paper explores the shift from AI as an answer-engine to AI as a question-generator, analyzing student performance in political science debates.",
-      "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?auto=format&fit=crop&q=80&w=800",
-      "date": "2024",
-      "author": "Rodrigues-Silveira, R. & Team",
-      "venue": "Journal of Digital Pedagogy",
-      "doi": "10.1080/12345678.2024.001",
-      "url": "#"
+      "description": "Este capítulo de libro explora la aplicación de la IA y el desarrollo del marco del proyecto en el contexto de una asignatura de metodología.",
+      "image": "images/repos/libro_buenas_practicas.png",
+      "date": "2025",
+      "author": "Rodrigues-Silveira, R. & Cuéllar Rivero, R.",
+      "venue": "Buenas Prácticas Docentes con Inteligencia Artificial",
+      "doi": "10.5281/zenodo.17733543",
+      "url": "repos/cap_buenas_practicas.pdf"
     },
     {
       "id": 2,
-      "title": "Ethical Frameworks for Generative AI in Higher Education",
+      "title": "MetodologIA: Inteligencia Artificial como soporte para la enseñanza de métodos de investigación",
       "category": "Conferencias",
       "type": "link",
-      "description": "Presented at the International Conference on EdTech 2023. A proposal for a traffic-light system for ethical AI usage in essays.",
-      "image": "https://images.unsplash.com/photo-1544531586-fde5298cdd40?auto=format&fit=crop&q=80&w=800",
-      "date": "2023",
-      "author": "Cuéllar Rivero, R.",
-      "venue": "ICET 2023 Proceedings",
-      "doi": "10.1109/ICET.2023.89",
-      "url": "#"
+      "description": "Presentación de la metodología del proyecto durante el I Encuentro de Buenas Prácticas Docentes con Inteligencia Artificial realizado en la Universidad de Salamanca el 19 de Septiembre de 2025.",
+      "image": "images/repos/encuentro_bp.png",
+      "date": "2025",
+      "author": "Rodrigues-Silveira, R. & Cuéllar Rivero, R..",
+      "venue": "I Encuentro de Buenas Prácticas Docentes con Inteligencia Artificial",
+      "doi": "",
+      "url": "https://iuce.usal.es/blog/2025/03/31/i-encuentro-de-buenas-practicas-docentes-con-inteligencia-artificial/"
     }
   ],
   "items": [
